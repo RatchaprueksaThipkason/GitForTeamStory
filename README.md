@@ -16,12 +16,14 @@
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. The king opened the chest, but there was no gold inside. There was only a **map**. It had a big X on it, but no roads and no names, so nobody knew where X was. The king was a little sad because he really needed the money.
+
+   ![map](img/map.png)
+ 
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. A rocket blasted off, but at the same time the **time machine** broke down and sent everyone back in time.  
    ![rocket](img/rocket.png)
 
 8. "Yo Yo I'm the wise cat and I'm here to tell you the secret of the universe" The cat said but every ignore it and the make the cat feel very so it just vanish from the reality and not coming back. 
