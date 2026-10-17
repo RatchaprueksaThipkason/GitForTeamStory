@@ -21,7 +21,7 @@
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. A rocket blasted off, but at the same time the **time machine** broke down and sent everyone back in time.  
    ![rocket](img/rocket.png)
 
 8. The cat was supposed to talk here, but the line is missing.  
