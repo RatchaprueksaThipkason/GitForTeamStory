@@ -11,8 +11,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
    ![castle](img/castle.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. Then suddenly, a creature that look like a **dragon** appeared in the castle it has big black eyes but instead of scales, it was armored in metal plates, maybe it was actually a **robot**?  
+   (Nobody is sure yet.) The king therefore brought a scientist to analyze this dragon.
 
    ![dragon](img/dragon.png)
 
