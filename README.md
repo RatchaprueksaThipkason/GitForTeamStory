@@ -35,4 +35,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 9. In the forest, the detective discovered… the time machine that broke down.  
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. As for the sentence the scientist had once shouted, it was only just now being written down: "At long last, this tale has finally been finished!"
