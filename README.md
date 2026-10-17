@@ -31,7 +31,7 @@
 7. A rocket blasted off, but at the same time the **time machine** broke down and sent everyone back in time.  
    ![rocket](img/rocket.png)
 
-8. "Yo Yo I'm the wise cat and I'm here to tell you the secret of the universe" The cat said but every ignore it and the make the cat feel very so it just vanish from the reality and not coming back. 
+8. "Yo Yo I'm the wise cat and I'm here to tell you the secret of the universe" The cat said but everyone ignore it and that make the cat feel very sad so it just vanish from the reality and not coming back. 
 
    ![cat](img/cat.png)
 
