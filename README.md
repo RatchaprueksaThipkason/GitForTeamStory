@@ -21,7 +21,9 @@
    ![map](img/map.png)
  
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. Then someone shouted, "Let's go to space!" It was a **pirate**. Nobody knew who he was. He said he had been sleeping in the cellar for a week and the X looked like a star to him. The king was too tired to argue, so everyone just said okay.
+
+   ![pirate](img/pirate.png)
 
 7. A rocket blasted off, but at the same time the **time machine** broke down and sent everyone back in time.  
    ![rocket](img/rocket.png)
