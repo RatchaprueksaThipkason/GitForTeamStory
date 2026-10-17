@@ -1,11 +1,4 @@
-# Team Story Challenge
-
-This is the starting draft of your team’s story.  
-Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
-
----
-
-## Our Wonderful Story
+# Our Wonderful Story
 
 1. Once upon a time, there was a **castle**. It was old and cold, and the king lived there alone because he couldn't afford servants anymore.
 
