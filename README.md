@@ -24,8 +24,8 @@
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
    ![rocket](img/rocket.png)
 
-8. The cat was supposed to talk here, but the line is missing. 
-   1[cat](img/cat.png)
+8. "Yo Yo I'm the wise cat and I'm here to tell you the secret of the universe" The cat said but every ignore it and the make the cat feel very so it just vanish from the reality and not coming back. 
+   ![cat](img/cat.png)
 
 9. In the forest, the detective discovered… the time machine that broke down.  
 
