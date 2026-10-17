@@ -27,7 +27,6 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 8. The cat was supposed to talk here, but the line is missing.  
 
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+9. In the forest, the detective discovered… the time machine that broke down.  
 
 10. The ending… well, we don’t really have one. Please fix this.
