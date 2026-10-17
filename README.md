@@ -16,7 +16,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
    ![dragon](img/dragon.png)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. The **scientist** shouted something very important but nobody wrote it down.
+
+   ![scienctist](img/scientist.png)
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
