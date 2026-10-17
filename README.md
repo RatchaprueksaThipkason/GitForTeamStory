@@ -24,7 +24,8 @@
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
    ![rocket](img/rocket.png)
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. The cat was supposed to talk here, but the line is missing. 
+   1[cat](img/cat.png)
 
 9. In the forest, the detective discovered… the time machine that broke down.  
 
