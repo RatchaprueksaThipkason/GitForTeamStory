@@ -13,7 +13,7 @@
 
    ![scienctist](img/scientist.png)
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
+4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest** you have found 3 treasure chest but wait, There was a sign write there are 2 chest is a mimic and 1 are the real one fortunately you have no greedy so you walked past it 
    ![treasure chest](img2.png)
 
 5. The king opened the chest, but there was no gold inside. There was only a **map**. It had a big X on it, but no roads and no names, so nobody knew where X was. The king was a little sad because he really needed the money.
